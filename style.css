@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Saira:ital,wght@0,100..900;1,100..900&display=swap&#39;');
+
+:root{
+--aquamarine: rgb(134, 243, 192);
+--ciano: #4ecdc4ff;
+--branco: #ffffffff;
+--rosa: #ff6b6bff;
+--texto: "Saira", sans-serif;
+--titulo:"Archivo Black", sans-serif;
+}
+
+body{
+background-color: var(--rosa);
+font-family: var(--texto);
+}
+header{
+    background-color:var(--aquamarine)
+}
